@@ -164,12 +164,6 @@ public class TestCollection {
 		}
 		System.out.println();
 		
-		list.push(10);
-		System.out.println(list.poll());
-		for (Integer integer : list) {
-			System.out.print(integer+" ");
-		}
-		System.out.println();
 	}
 	
 	
